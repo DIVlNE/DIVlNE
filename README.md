@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DIVlNE
 - 👀 I’m Software Developer
-- 🌱 I’m currently learning on Web Dev.
-- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me @ https://twitter.com/devgj23
 
 <!---
